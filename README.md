@@ -1,5 +1,5 @@
 # RISC-V
-This is an implementation of the pipelined RISC-V architecture, which supports all RV32I instructions  
+This is an implementation of the pipelined RISC-V architecture, with support to all RV32I instructions  
 
 ![image](https://user-images.githubusercontent.com/56271967/151587541-04d758b1-3deb-4073-8eac-9a870407e80d.png)
 
